@@ -41,4 +41,5 @@ body {
   position: absolute;
   transform-origin: 100%;
   transition: all 0.5s;
+  transition-timing-function: cubic-bezier(0, 2.23, 0.25, 1);
 }
