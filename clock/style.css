@@ -43,3 +43,15 @@ body {
   transition: all 0.5s;
   transition-timing-function: cubic-bezier(0, 2.23, 0.25, 1);
 }
+
+.second-pin {
+  background-color: #f8485e;
+}
+
+.minute-pin {
+  background-color: #efb7b7;
+}
+
+.hour-pin {
+  background-color: #00c1d4;
+}
